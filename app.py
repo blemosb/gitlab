@@ -10,6 +10,7 @@ def add_task(tasks):
 
 def main():
     tasks = []
+    a = 1+1
     while True:
         print("\nMenu:")
         print("1. Mostrar tarefas")
