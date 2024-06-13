@@ -24,7 +24,7 @@ def main():
         elif choice == '2':
             add_task(tasks)
         elif choice == '3':
-            print("teste do git ***********.")
+            print("teste do git QUALQUER COISA.")
         elif choice == '4':
             print("teste do git 5.")
         elif choice == '5':
